@@ -1,0 +1,532 @@
+
+
+
+
+nav{
+top: 0px;
+left: 0px;
+width: 1440px;
+height: 80px;
+background: #000324 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.navbar a {
+    text-decoration: none; 
+    color: white;
+    padding: 3px; 
+    transition: border 0.3s; 
+}
+
+
+.navbar a:hover {
+    border: 2px solid white; 
+    border-radius: 1px; 
+}
+
+.headpic{
+top: 119px;
+height: 500px;
+opacity: 1;
+background-size: 100%;
+background-image: url('../Assets/header.jpg');
+background-repeat: no-repeat;
+display: flex;
+justify-content: center;
+margin: 0;
+}
+.imgsize{
+    object-fit: cover;
+    object-position: center;
+}
+
+.box{
+
+top: 253px;
+left: 310px;
+width: 945px;
+height: 232px;
+background: #000324 0% 0% no-repeat padding-box;
+opacity: 0.8;
+justify-content: center;
+
+}
+
+
+
+
+
+.align{
+    align-items:center;
+}
+
+.text{
+width: 600px;
+height: 57px;
+text-align: center;
+font: normal normal normal 45px/57px Dosis;
+letter-spacing: 0px;
+color: #E5FEFF;
+opacity: 1;
+
+
+}
+
+.text2{
+width: 518px;
+height: 20px;
+text-align: center;
+font: normal normal normal 16px/20px Source Sans Pro;
+letter-spacing: 0px;
+color: #E5FEFF;
+opacity: 1;
+}
+
+.homehamster{
+ top: 728px;
+left: 393px;
+width: 369px;
+height: 416px;
+opacity: 1;
+}
+.text3{
+top: 719px;
+left: 776px;
+width: 434px;
+height: 44px;
+text-align: left;
+font: normal normal normal 35px/44px Dosis;
+letter-spacing: 0px;
+color: #1A1B26;
+opacity: 1;
+}
+
+.text4{
+top: 785px;
+left: 776px;
+width: 753px;
+height: 155px;
+text-align: left;
+font: normal normal normal 16px/20px Source Sans Pro;
+letter-spacing: 0px;
+color: #1A1B26;
+opacity: 1;
+}
+
+.finest{
+    top: 962px;
+    left: 776px;
+    width: 200px;
+    height: 153px;
+    background: transparent url('img/awardfinest.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.satisfaction{
+    top: 931px;
+    left: 1052px;
+    width: 200px;
+    height: 193px;
+    background: transparent url('img/awardsatisfaction.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.genuine{
+    top: 949px;
+    left: 1355px;
+    width: 200px;
+    height: 175px;
+    background: transparent url('img/awardgenuine.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+
+.img3{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.bg-1{
+background-image: url('../Assets/bg2.jpg');
+top: 1235px;
+left: 0px;
+height: 600px;
+opacity: 1;
+display: flex;             
+flex-direction: column;    
+align-items: center;       
+padding: 20px;
+
+}
+
+.text5{
+width: 200px;
+height: 44px;
+text-align:center;
+font: normal normal normal 35px/44px Dosis;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+img {
+    max-width: 100%;
+    
+}
+
+
+.custom-margin {
+    margin-top: 5px; 
+}
+
+.cardborder{
+    border-radius: 0;
+}
+
+.centercards {
+    display: flex;          
+    justify-content: center; 
+    gap: 20px;             
+}
+
+
+
+.cardtitle{
+top: 1550px;
+left: 398px;
+width: 222px;
+height: 32px;
+text-align: left;
+font: normal normal normal 25px/32px Dosis;
+letter-spacing: 0px;
+color: #1A1B26;
+opacity: 1;
+}
+
+h6{
+top: 1594px;
+left: 401px;
+width: 254px;
+height: 28px;
+text-align: left;
+font: normal normal bold 16px/20px Source Sans Pro;
+letter-spacing: 0px;
+color: #1A1B26;
+opacity: 1;
+}
+
+.CT{
+top: 1634px;
+left: 401px;
+width: 337px;
+height: 157px;
+text-align: left;
+font: normal normal normal 16px/20px Source Sans Pro;
+letter-spacing: 0px;
+color: #1A1B26;
+opacity: 1;
+}
+
+.packages{
+top: 2080px;
+left: 898px;
+width: 124px;
+height: 44px;
+text-align: center;
+font: normal normal normal 35px/44px Dosis;
+letter-spacing: 0px;
+color: #1A1B26;
+opacity: 1;
+}
+
+.hamsterwedding{
+top: 2143px;
+left: 390px;
+width: 561px;
+height: 234px;
+opacity: 1;
+}
+
+.hamsterheading{
+top: 2165px;
+left: 966px;
+width: 330px;
+height: 32px;
+text-align: left;
+font: normal normal normal 25px/32px Dosis;
+letter-spacing: 0px;
+color: #1A1B26;
+}
+
+.hamsterprice{
+top: 2689px;
+left: 966px;
+width: 242px;
+height: 20px;
+text-align: left;
+font: normal normal normal 16px/20px Source Sans Pro;
+letter-spacing: 0px;
+color: #1F51A8;
+opacity: 1;
+}
+
+.hamstertext{
+    top: 2731px;
+    left: 966px;
+    width: 561px;
+    height: 106px;
+    text-align: left;
+    font: normal normal normal 16px/20px Source Sans Pro;
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+}
+
+.bg-emenities{
+background-image: url('../Assets/bg.jpg');
+top: 2942px;
+left: 0px;
+height: 500px;
+opacity: 1;
+background-size: cover;                      
+background-position: center bottom;   
+}
+
+.amenities{
+width: 133px;
+height: 44px;
+font: normal normal normal 35px/44px Dosis;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.hr24{
+top: 3163px;
+left: 450px;
+width: 150px;
+height: 101px;
+opacity: 1;
+}
+
+.BR{
+top: 3163px;
+left: 745px;
+width: 150px;
+height: 104px;
+opacity: 1;
+}
+
+.valet{
+top: 3149px;
+left: 1056px;
+width: 110px;
+height: 120px;
+opacity: 1;
+}
+
+.pool{
+top: 3157px;
+left: 1317px;
+width: 560px;
+height: 120px;
+opacity: 1
+}
+
+.custom-margin2 {
+    margin-top: 100px; 
+}
+
+.image-column {
+    margin: 0 15px; /* Adjust the values as needed */
+}
+
+.amenitiestext{
+    top: 3296px;
+left: 426px;
+width: 198px;
+height: 25px;
+text-align: left;
+font: normal normal bold 20px/25px Source Sans Pro;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.as{
+    top: 3048px;
+left: 551px;
+width: 808px;
+height: 20px;
+text-align: center;
+font: normal normal normal 16px/20px Source Sans Pro;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.Reservebox{
+top: 3591px;
+left: 392px;
+width: 1137px;
+height: 207px;
+background: #000324 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.reserve{
+top: 3615px;
+width: 300px;
+height: 44px;
+text-align: center;
+font: normal normal normal 35px/44px Dosis;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+.reservetype{
+top: 3711px;
+left: 488px;
+width: 177px;
+height: 38px;
+background: #EBEDFC 0% 0% no-repeat padding-box;
+border: 1px solid #7A90D9;
+opacity: 1;
+}
+
+.checkbtn{
+height: 38px;
+width: 277px;
+border-radius: 0;
+background-color: rgb(24, 24, 255);
+color: white;
+}
+
+.reservetext{
+
+
+width: 200px;
+height: 20px;
+text-align: left;
+font: normal normal normal 16px/20px Source Sans Pro;
+letter-spacing: 0px;
+color: #E5FEFF;
+opacity: 1;
+}
+
+.cusmt3{
+    margin-top: 45px;
+}
+
+.hr{
+top: 3797px;
+left: 392px;
+height: 414px;
+opacity: 1;
+object-fit: cover;          
+object-position:center; 
+}
+
+.endbox{
+    top: 4312px;
+    left: 0px;
+    height: 300px;
+    background: #000324 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.endlogo{
+    top: 4336px;
+left: 889px;
+width: 143px;
+height: 100px;
+background: transparent url('img/Logo.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.endtext{
+top: 4503px;
+left: 718px;
+width: 700px;
+height: 20px;
+text-align:center;
+font: normal normal normal 16px/20px Source Sans Pro;
+letter-spacing: 0px;
+color: #E5FEFF;
+opacity: 1;
+}
+
+/* Example media query */
+@media (max-width: 768px) {
+    .box{
+      width: 768px;
+    }
+
+
+    .text{
+top: 310px;
+width: 600px;
+height: 57px;
+text-align: center;
+    }
+
+    .text2{
+        width: 518px;
+        height: 20px;
+        text-align: center;
+        }
+
+    .home{
+        
+    display: flex;
+    flex-direction: column;
+        
+        }
+
+        .homehamster{
+           width: 369px;
+           height: 416px;
+           opacity: 1;
+           text-align: center;
+           }
+           .text4{
+
+width: 700px;
+height: 155px;
+text-align: center;
+
+           }
+
+           .text3{
+
+width: 434px;
+height: 44px;
+text-align: center;
+margin-left: 120px;
+
+           }
+
+           .marginleft{
+            margin-left: 120px;
+           }
+   
+           .CT{
+            
+            width: 200px;
+            height: 200px;
+            text-align: left;
+         
+            }
+
+            h6{
+                width: 200px;
+            }
+           
+            .hamstertext{
+                top: 2731px;
+                left: 966px;
+                width: 350px;
+                height: 106px;
+            }
+}
