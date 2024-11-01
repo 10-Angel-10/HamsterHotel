@@ -3,6 +3,7 @@ Angel Cuevas
 Hamster Hotel
 I made a website as close as posible to the one provided as a prototype
 
-Peer Review:
+Peer Review: David Monterossa
+
 The site is somewhat accurate on desktop. There are some issues with responsiveness at smaller screen sizes due to some hard coding. The forms section is especially jumbled.
 In the future try to use percentages and make use of bootstrap's container-row-col structure. Overall it is reatively responsive at tablet view. 
